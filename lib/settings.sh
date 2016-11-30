@@ -55,9 +55,9 @@ export HAND_BRAKE_APP_NAME="HandBrake.app"
 export HAND_BRAKE_VOLUME_NAME="HandBrake-0.10.5-MacOSX.6_GUI_x86_64"
 export HAND_BRAKE_APP_URL="http://handbrake.fr/rotation.php?file=HandBrake-0.10.5-MacOSX.6_GUI_x86_64.dmg"
 
-export HAZEL_APP_NAME="Install Hazel.app"
-export HAZEL_VOLUME_NAME="Hazel"
-export HAZEL_APP_URL="http://www.noodlesoft.com/Products/Hazel/download"
+# export HAZEL_APP_NAME="Install Hazel.app"
+# export HAZEL_VOLUME_NAME="Hazel"
+# export HAZEL_APP_URL="http://www.noodlesoft.com/Products/Hazel/download"
 
 export IMAGE_OPTIM_APP_NAME=ImageOptim.app
 export IMAGE_OPTIM_APP_URL="http://imageoptim.com/ImageOptim.tbz2"
@@ -81,17 +81,17 @@ export MARP_APP_NAME="Marp.app"
 export MARP_VOLUME_NAME="Marp"
 export MARP_APP_URL="https://github.com/yhatt/marp/releases/download/v0.0.8/0.0.8-Marp-darwin-x64.dmg"
 
-export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
-export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
-export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
+# export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
+# export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
+# export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
 
-export OPEN_OFFICE_APP_NAME=OpenOffice.app
-export OPEN_OFFICE_VOLUME_NAME="OpenOffice"
-export OPEN_OFFICE_APP_URL="https://downloads.sourceforge.net/project/openofficeorg.mirror/4.1.2/binaries/en-US/Apache_OpenOffice_4.1.2_MacOS_x86-64_install_en-US.dmg"
+# export OPEN_OFFICE_APP_NAME=OpenOffice.app
+# export OPEN_OFFICE_VOLUME_NAME="OpenOffice"
+# export OPEN_OFFICE_APP_URL="https://downloads.sourceforge.net/project/openofficeorg.mirror/4.1.2/binaries/en-US/Apache_OpenOffice_4.1.2_MacOS_x86-64_install_en-US.dmg"
 
-export OPERA_APP_NAME=Opera.app
-export OPERA_VOLUME_NAME="Opera"
-export OPERA_APP_URL="https://download2.operacdn.com/pub/opera/desktop/40.0.2308.75/mac/Opera_40.0.2308.75_Setup.dmg"
+# export OPERA_APP_NAME=Opera.app
+# export OPERA_VOLUME_NAME="Opera"
+# export OPERA_APP_URL="https://download2.operacdn.com/pub/opera/desktop/40.0.2308.75/mac/Opera_40.0.2308.75_Setup.dmg"
 
 export PATH_FINDER_APP_NAME="Path Finder.app"
 export PATH_FINDER_APP_URL="http://get.cocoatech.com/PF7.zip"
