@@ -10,15 +10,6 @@ set -o errexit
 set -o pipefail
 IFS=$'\n\t'
 
-# Ruby
-export MRI=2.3.1
-
-# Repositories
-export REPO_RUBY_SETUP=v6.0.0
-export REPO_GO_SETUP=v2.0.0
-export REPO_NPM_SETUP=v2.0.0
-export REPO_SUBLIME_TEXT_SETUP=v5.0.0
-export REPO_DOTFILES=v23.0.0
 
 # Applications
 export ALFRED_APP_NAME="Alfred 3.app"
@@ -82,6 +73,9 @@ export KNOX_APP_URL="https://d13itkw33a7sus.cloudfront.net/dist/K/Knox-2.3.2.zip
 
 export KSDIFF_APP_NAME="ksdiff"
 export KSDIFF_APP_URL="https://updates.blackpixel.com/latest?app=ksdiff"
+
+export MAILPLANE_APP_NAME="Mailplane 3.app"
+export MAILPLANE_APP_URL="http://update.mailplaneapp.com/mailplane_3.php"
 
 export MARP_APP_NAME="Marp.app"
 export MARP_VOLUME_NAME="Marp"
