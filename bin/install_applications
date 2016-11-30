@@ -40,8 +40,8 @@ install_dmg_app "$FIREFOX_APP_URL" "$FIREFOX_VOLUME_NAME" "$FIREFOX_APP_NAME"
 # HandBrake
 install_dmg_app "$HAND_BRAKE_APP_URL" "$HAND_BRAKE_VOLUME_NAME" "$HAND_BRAKE_APP_NAME"
 
-# Hazel
-install_dmg_app "$HAZEL_APP_URL" "$HAZEL_VOLUME_NAME" "$HAZEL_APP_NAME"
+# # Hazel
+# install_dmg_app "$HAZEL_APP_URL" "$HAZEL_VOLUME_NAME" "$HAZEL_APP_NAME"
 
 # ImageOptim
 install_tar_app "$IMAGE_OPTIM_APP_URL" "$IMAGE_OPTIM_APP_NAME" "-xjf"
@@ -64,14 +64,14 @@ install_zip_app "$MAILPLANE_APP_URL" "$MAILPLANE_VOLUME_NAME" "$MAILPLANE_APP_NA
 # Marp
 install_dmg_app "$MARP_APP_URL" "$MARP_VOLUME_NAME" "$MARP_APP_NAME"
 
-# OmniGraffle
-install_dmg_app "$OMNIGRAFFLE_APP_URL" "$OMNIGRAFFLE_VOLUME_NAME" "$OMNIGRAFFLE_APP_NAME"
+# # OmniGraffle
+# install_dmg_app "$OMNIGRAFFLE_APP_URL" "$OMNIGRAFFLE_VOLUME_NAME" "$OMNIGRAFFLE_APP_NAME"
 
-# OpenOffice
-install_dmg_app "$OPEN_OFFICE_APP_URL" "$OPEN_OFFICE_VOLUME_NAME" "$OPEN_OFFICE_APP_NAME"
+# # OpenOffice
+# install_dmg_app "$OPEN_OFFICE_APP_URL" "$OPEN_OFFICE_VOLUME_NAME" "$OPEN_OFFICE_APP_NAME"
 
-# Opera
-install_dmg_app "$OPERA_APP_URL" "$OPERA_VOLUME_NAME" "$OPERA_APP_NAME"
+# # Opera
+# install_dmg_app "$OPERA_APP_URL" "$OPERA_VOLUME_NAME" "$OPERA_APP_NAME"
 
 # Path Finder
 install_zip_app "$PATH_FINDER_APP_URL" "$PATH_FINDER_APP_NAME"
