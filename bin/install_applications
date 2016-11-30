@@ -59,7 +59,7 @@ install_zip_app "$KNOX_APP_URL" "$KNOX_APP_NAME"
 install_zip_pkg "$KSDIFF_APP_URL" "$KSDIFF_APP_NAME"
 
 # Mailplane 3
-install_dmg_app "$MAILPLANE_APP_URL" "$MAILPLANE_VOLUME_NAME" "$MAILPLANE_APP_NAME"
+install_zip_app "$MAILPLANE_APP_URL" "$MAILPLANE_VOLUME_NAME" "$MAILPLANE_APP_NAME"
 
 # Marp
 install_dmg_app "$MARP_APP_URL" "$MARP_VOLUME_NAME" "$MARP_APP_NAME"
