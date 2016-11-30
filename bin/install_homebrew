@@ -197,6 +197,9 @@ brew install vim
 brew install watchman
 
 # Wry
+brew install wget
+
+# Wry
 brew install wry
 
 # Z
